@@ -29,11 +29,5 @@ Main frame when the game starts.
 
 
 Battle frame in map-wetland, with dynamic water and leaves effects, detailed information feedback and good landscape.
-
-<img src="G:\Notes\Java-A\MineSweeper\MineSweeper\2022Fall-OOAD-Proj\Pics\Wetland.png" style="zoom:50%;" />
-
-
-
 Battel frame in map-dungeon, a archer is trying to use skill-apex arrow but the enemy is out of skill range, therefore it couldn't be select.
-
-<img src="G:\Notes\Java-A\MineSweeper\MineSweeper\2022Fall-OOAD-Proj\Pics\SkillBoard.png" style="zoom:50%;" />
+More details to seen at floder Pics.
