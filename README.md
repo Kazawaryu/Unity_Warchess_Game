@@ -24,10 +24,12 @@ The project uses several Object Oriented Analysis Designs(facade, builder, bridg
 
 Main frame when the game starts.
 
-<img src="https://raw.githubusercontent.com/Kazawaryu/Unity_Warchess_Game/main/Pics/BeginFrame.png" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/Kazawaryu/Unity_Warchess_Game/main/Pics/BeginFrame.png" style="zoom: 30%;" />
 
 
 
 Battle frame in map-wetland, with dynamic water and leaves effects, detailed information feedback and good landscape.
+
 Battel frame in map-dungeon, a archer is trying to use skill-apex arrow but the enemy is out of skill range, therefore it couldn't be select.
+
 More details to seen at floder Pics.
