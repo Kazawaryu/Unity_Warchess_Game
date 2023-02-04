@@ -24,7 +24,7 @@ The project uses several Object Oriented Analysis Designs(facade, builder, bridg
 
 Main frame when the game starts.
 
-<img src="[G:\Notes\Java-A\MineSweeper\MineSweeper\2022Fall-OOAD-Proj\Pics\BeginFrame.png](https://raw.githubusercontent.com/Kazawaryu/Unity_Warchess_Game/main/Pics/BeginFrame.png)" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/Kazawaryu/Unity_Warchess_Game/main/Pics/BeginFrame.png" style="zoom: 50%;" />
 
 
 
