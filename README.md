@@ -14,7 +14,7 @@ Basically, I divided all classes into several part due to it's function but not 
 
 The project uses several Object Oriented Analysis Designs(facade, builder, bridge, decorator pattern, command). Here comes the details.
 
-<img src="G:\Notes\Java-A\MineSweeper\MineSweeper\2022Fall-OOAD-Proj\Pics\OOwordClassMap.png" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/Kazawaryu/Unity_Warchess_Game/main/Pics/OOwordClassMap.png" style="zoom: 50%;" />
 
 
 
