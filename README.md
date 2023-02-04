@@ -8,7 +8,7 @@ An unity 3D game written by C#, it is a local double players game. The game cont
 
 Basically, I divided all classes into several part due to it's function but not object orientation, cause the class diagram is a little bit complex. The full class diagram is as follow. Some unity components such as used to control UI canvas and input modules are not  shown in the diagram.
 
-<img src="G:\Notes\Java-A\MineSweeper\MineSweeper\2022Fall-OOAD-Proj\Pics\ClassMap.png" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/Kazawaryu/Unity_Warchess_Game/main/Pics/ClassMap.png" style="zoom:67%;" />
 
 
 
