@@ -1,0 +1,25 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Item : MonoBehaviour
+{
+    UICanvas _curCanvas;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        _curCanvas = GameObject.Find("Canvas").GetComponent<UICanvas>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    public void OnClick()
+    {
+        _curCanvas.itemOnclick();
+    }
+}

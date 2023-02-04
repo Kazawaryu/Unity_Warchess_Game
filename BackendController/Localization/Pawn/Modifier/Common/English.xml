@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<English>
+    <Modifier_Common_Injury>
+        <text>Injury</text>
+    </Modifier_Common_Injury>
+    <Modifier_Common_Heal>
+        <text>Heal</text>
+    </Modifier_Common_Heal>
+</English>

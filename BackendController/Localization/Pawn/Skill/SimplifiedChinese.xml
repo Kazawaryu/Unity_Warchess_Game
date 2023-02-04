@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimplifiedChinese>
+    <Skill_Effect_DealDamge>
+        <text>造成{0}点伤害</text>
+    </Skill_Effect_DealDamge>
+    <Skill_Effect_Heal>
+        <text>治疗{0}点生命值</text>
+    </Skill_Effect_Heal>
+    <Skill_Effect_ApplyEffect>
+        <text>给予{0}</text>
+    </Skill_Effect_ApplyEffect>
+    <Skill_Full_Description>
+        <text>技能描述:\n{0}\n效果:{1}\n目标:{2}\n范围:{3}\n引导:{4}\n冷却:{5}\n</text>
+    </Skill_Full_Description>
+</SimplifiedChinese>

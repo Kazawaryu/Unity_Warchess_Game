@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<English>
+    <Skill_Effect_DealDamge>
+        <text>Deal {0} damage</text>
+    </Skill_Effect_DealDamge>
+    <Skill_Effect_Heal>
+        <text>Heal {0} HP</text>
+    </Skill_Effect_Heal>
+    <Skill_Effect_ApplyEffect>
+        <text>Give {0}</text>
+    </Skill_Effect_ApplyEffect>
+    <Skill_Full_Description>
+        <text>Description:\n{0}\nEffect:{1}\nTarget:{2}\nCast Time:{3}\nCool Down:{4}\n</text>
+    </Skill_Full_Description>
+</English>

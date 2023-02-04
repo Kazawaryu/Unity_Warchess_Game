@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimplifiedChinese>
+    <Modifier_Buff_AlwaysCritic>
+        <text>必定暴击,持续{0}回合</text>
+    </Modifier_Buff_AlwaysCritic>
+</SimplifiedChinese>
