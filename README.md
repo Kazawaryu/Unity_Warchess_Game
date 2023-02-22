@@ -34,8 +34,3 @@ Battel frame in map-dungeon, a archer is trying to use skill-apex arrow but the 
 
 More details to seen at floder Pics.
 
-### 3.  Detail function
-
-  #1.)  Fix instantiate function
-  
-  Due to Unity's single processer, when too many instantiates exiest at one same scene, it would cost a lot to modulize a instantiate. What's worse, as high-fps model, the single plugins would cost a lot. 
