@@ -1,4 +1,9 @@
 # Unity War Chess Game
+If you like this project, please give me a ⭐, it do means a lot for me🙏.
+
+
+And if you want the playable version, just comment and I'll send it to you.
+
 
 An unity 3D game written by C#, it is a local double players game. The game contains skill system, level system, item system and equipment system. The project used several **Object Oriented Analysis Designs** to be maintained easily. 
 
