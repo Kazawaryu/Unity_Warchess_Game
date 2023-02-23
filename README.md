@@ -1,5 +1,5 @@
 # Unity War Chess Game
-If you like this project, please give me a ⭐, it do means a lot for me🙏.
+If you like this project, please give me a ⭐, it does mean a lot for me🙏.
 
 
 And if you want the playable version, just comment and I'll send it to you.
